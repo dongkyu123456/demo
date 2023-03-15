@@ -38,4 +38,4 @@ import org.springframework.web.bind.annotation.RestController;
         }
     }
     //참조 사이트 https://velog.io/@ansalstmd/SPRING-REST-Controller%EB%A5%BC-%ED%86%B5%ED%95%9C-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84
-    //도와준 친구 : 챗지피티
+    //도와준 친구 : 챗지피티(중괄호 넣는 건 내가 햇음)
